@@ -23,6 +23,6 @@ sr.reveal(
               .btn, .connect-text,
               .contact-box`,
   {
-    interval: 200,
+    interval: 150,
   }
 );
